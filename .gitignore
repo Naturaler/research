@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 自定义
+mvnw
+mvnw.cmd
+.mvn/
